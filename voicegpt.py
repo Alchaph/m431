@@ -4,7 +4,7 @@ from gtts import gTTS
 import os
 
 # Set up your OpenAI API key
-openai.api_key = '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'
+openai.api_key = 'Your API Key for Chat GPT'
 
 # Initialize the recognizer
 r = sr.Recognizer()
